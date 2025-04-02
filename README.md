@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chef Claude - Recipe Generator
 
 Chef Claude is a web application that helps you discover delicious recipes based on the ingredients you have on hand. Simply add your ingredients, and Chef Claude will suggest a recipe for you!
@@ -89,4 +88,4 @@ Feel free to contribute to this project by submitting pull requests or opening i
 =======
 # Chef_Claude
 A React and Express.js app where you input your ingredients and then get recipe recommendations from Claude or Mistral AI!
->>>>>>> e560ff5fd5f07d68dc5c964f8cd2632e108a8619
+
